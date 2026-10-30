@@ -1,6 +1,6 @@
 | 头像 | 频道号 | 频道简介 | 成员数 |
 |------|--------|----------|--------|
-![soso搜索机器人](channel_logos/soso.jpg)|[@soso](https://t.me/sosoo?start=a_6294881820)|提供关键词相关群组的机器人|
+![soso搜索机器人](channel_logos/soso.jpg)|[@soso](https://t.me/soso?start=a_6294881820)|提供关键词相关群组的机器人|
 ![jiso搜索机器人](channel_logos/jiso.jpg)|[@jiso](https://t.me/jiso?start=a_6294881820)|找到有趣的群、频道、视频、音乐、电影、新闻|
 ![华夏机器人](channel_logos/huaxia.jpg)|[@huaxia123_bot](https://t.me/huaxia123_bot?start=pRtPVwfpWEBFGb0hVYqZDphA3pWYZSNP)|找到您感兴趣的群组、频道和机器人️|
 ![i快搜机器人](channel_logos/ikuaiso.jpg)|[@ikuaisobot](https://t.me/ikuaisobot?start=6294881820)|帮你找到有趣的群、频道、视频、音乐、电影、新闻|
